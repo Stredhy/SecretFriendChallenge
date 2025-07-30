@@ -11,7 +11,18 @@ function agregaAmigo(){
     }
 
     amigos.push(texto);
+    listarAmigos();
     htmlElement.value = "";
+}
+
+function listarAmigos(){
+    let htmlElement = document.getElementById('listaAmigos');
+    let aux = '';
+    htmlElement.innerHTML = "";
+    amigos.forEach(e => {
+        aux += `<li>${e}</li>`;
+        htmlElement.innerHTML = aux;
+    });
 }
 
 function esTextoValido(element){
