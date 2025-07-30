@@ -26,10 +26,10 @@ function listarAmigos(){
 }
 
 function esTextoValido(element){
-    return !esTextoVacio(element) && isWord(element);
+    return !esElementoVacio(element) && isWord(element);
 }
 
-function esTextoVacio(element){
+function esElementoVacio(element){
     return element.length == 0;
 }
 
@@ -40,4 +40,13 @@ function isWord(element){
         }
     }
     return true;
+}
+function sortearAmigo(){
+    if(esElementoVacio(amigos)){
+        alert("¡Debe ingresar el nombre de algun amigo!");
+        return;
+    }
+    let randNum = Math.floor(Math.random()*amigos.length);
+    
+    document.getElementById('resultado').innerHTML = amigos.at(randNum);
 }
