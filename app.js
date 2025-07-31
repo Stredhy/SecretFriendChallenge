@@ -46,6 +46,10 @@ function sortearAmigo(){
         alert("¡Debe ingresar el nombre de algun amigo!");
         return;
     }
+    if(amigos.length < 2){
+        alert("¡Debe agregar al menos 2 amigos!");
+        return;
+    }
     let randNum = Math.floor(Math.random()*amigos.length);
     
     document.getElementById('resultado').innerHTML = amigos.at(randNum);
