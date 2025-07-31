@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-finished-green)
 ![Release](https://img.shields.io/badge/Release_Date-2025/07/30-c5e667?color=purple)
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/Stredhy/SecretNumberChallenge?style=social)](https://github.com/Stredhy/SecretNumberChallenge/stargazers)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Stredhy/SecretFriendChallenge?style=social)](https://github.com/Stredhy/SecretFriendChallenge/stargazers)
 ___
 #### Nota: 
 Este proyecto es de carácter educativo y fue desarrollado durante el programa [Oracle Next Education - Alura Latam](https://www.aluracursos.com/empresas/one).  
