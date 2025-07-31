@@ -6,8 +6,7 @@
 
 </center>
 
-___
-[![Status](https://img.shields.io/badge/Status-finished-green)]()
+![Status](https://img.shields.io/badge/Status-finished-green)
 ![Release](https://img.shields.io/badge/Release_Date-2025/07/30-c5e667?color=purple)
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/Stredhy/SecretNumberChallenge?style=social)](https://github.com/Stredhy/SecretNumberChallenge/stargazers)
@@ -17,7 +16,7 @@ Este proyecto es de carácter educativo y fue desarrollado durante el programa [
 No tiene fines comerciales ni está licenciado bajo un esquema de código abierto tradicional (MIT, GPL, etc.).
 ___
 
-## Indice
+### Indice
 - [Titulo](#challenge-del-amigo-secreto)
 - [Aclaración](#nota)
 - [Indice](#indice)
@@ -65,11 +64,11 @@ Es posible acceder a la aplicación desde este enlace:
 👉 [Ir al juego](https://stredhy.github.io/SecretNumberChallenge/)
 ___
 ### Tecnologías
-* HTML
-* JavaScript
-* CSS
-* GoogleApis
-* Gstatic
+![HTML](https://img.shields.io/badge/HTML-black?logo=html5)
+![HTML](https://img.shields.io/badge/JavaScript-black?logo=javascript)
+![HTML](https://img.shields.io/badge/CSS-black?logo=css&logoColor=blue)
+![HTML](https://img.shields.io/badge/Google_Apis-black?logo=google)
+![HTML](https://img.shields.io/badge/Gstatic-black?logo=google)
 ___
 
 <center>
@@ -77,6 +76,6 @@ ___
 ### Autor
 
 [<img src="https://github.com/Stredhy.png" width="50"/>](https://github.com/Stredhy)  
-**Stredhy**  
+[**Stredhy**](https://github.com/Stredhy)  
 
 </center>
