@@ -60,7 +60,8 @@ Se valida que:
 ___
 ### Acceso
 Es posible acceder a la aplicación desde este enlace:
-👉 [Ir al juego](https://stredhy.github.io/SecretNumberChallenge/)
+
+👉 [Ir al juego](https://stredhy.github.io/SecretFriendChallenge/)
 ___
 ### Tecnologías
 ![HTML](https://img.shields.io/badge/HTML-black?logo=html5)
