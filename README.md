@@ -32,7 +32,7 @@ El Challenge del Amigo Secreto es una sencilla pero divertida aplicación web qu
 ___
 ### Características
 * Interfaz amigable y en español,
-* Validación para evitar entradas vacias o caracteres no permitidos,
+* Validación para evitar entradas vacías o caracteres no permitidos,
 * Sorteo aleatorio de un nombre de la lista,
 * Ideal para grupos pequeños o actividades familiares.
 
@@ -44,7 +44,7 @@ ___
 
 ![Preview](assets/example.gif)
 
-#### Explicación de codigo
+#### Explicación de código
 
 El proyecto se basa en tres funciones principales:
 
@@ -55,7 +55,7 @@ El proyecto se basa en tres funciones principales:
 `sortearAmigo()`: Selecciona aleatoriamente un nombre de la lista.
 
 Se valida que:
-- El nombre o la lista no estén vacíos (`esElementoVacio()`).
+- El nombre o la lista no está vacío (`esElementoVacio()`).
 - Solo contenga letras (`isWord()`).
 ___
 ### Acceso
